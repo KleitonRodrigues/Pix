@@ -7,7 +7,11 @@ Aplicativo PIX android desenvolvido para estudos com Android Studio.
 ## Instalação
 
 Basta acessar o link e fazer donwload na  [Google Play](https://play.google.com/store/apps/details?id=com.br.pix) para instalação
- 
+
+## Estatísticas
+Conheça nossos números de ultilização da versão atual
+[Visualizar](https://ibb.co/WK4vNRn) do aplicativo na Googl Play.
+
 ## Desenvolvedor
 **Kleiton Rodrigues**
  
