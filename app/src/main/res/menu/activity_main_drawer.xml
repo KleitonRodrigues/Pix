@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Minha Chaves PIX">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_meupix"
+                android:icon="@drawable/pix_money"
+                android:title="Exibir meu PIX" />
+            <item
+                android:id="@+id/nav_menu_cadastrar"
+                android:icon="@drawable/pix_edit"
+                android:title="Armazenar meu PIX" />
+            <item
+                android:id="@+id/nav_menu_comofuncionapix"
+                android:icon="@drawable/pix_help"
+                android:title="Como Funciona PIX" />
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+
+        <!--item
+            android:id="@+id/nav_menu_comofazerpix"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_comofazerpix" />
+        <item
+            android:id="@+id/nav_menu_oquemuda"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_oquemuda" />
+        <item
+            android:id="@+id/nav_menu_quempodefazer"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_quempodefazer" />
+        <item
+            android:id="@+id/nav_menu_quempodeulti"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_quempodeulti" />
+        <item
+            android:id="@+id/nav_menu_comoreceber"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_comoreceber" /-->
+    </group>
+    <item android:title="Recursos do Aplicativo">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_share"
+                android:icon="@drawable/pix_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_menu_rate"
+                android:icon="@drawable/pix_star"
+                android:title="@string/menu_rate" />
+            <item
+                android:id="@+id/nav_menu_sobre"
+                android:icon="@drawable/pix_info"
+                android:title="@string/menu_sobre" />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Pix</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Conheça o PIX</string>
+    <string name="nav_header_subtitle">Novo meio de pagamento</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_share">Compartilhar Aplicativo</string>
+    <string name="action_rate">Avaliar Aplicativo</string>
+    <string name="action_about">Sobre</string>
+
+    <string name="menu_comofuncionapix">Como Funciona o PIX</string>
+    <string name="menu_comofazerpix">Como Fazer um PIX</string>
+    <string name="menu_oquemuda">O Que Muda?</string>
+    <string name="menu_quempodefazer">Quem Pode Receber</string>
+    <string name="menu_quempodeulti">Quem Pode Ultilizar</string>
+    <string name="menu_comoreceber">Como Receber um PIX</string>
+    <string name="menu_share">Compartilhar o Aplicativo</string>
+    <string name="menu_rate">Avaliar na Google Play</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <string name="menu_home">Conheça o PIX</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="texto1">Basicamente, este é um novo sistema que facilitará a transferência de valores entre pessoas, o pagamentos de contas e boletos e até recolhimento de impostos e taxas de serviços, entre outras possibilidades. \n
+
+
+A grande diferença é a rapidez e a disponibilidade deste sistema: enquanto hoje existem restrições de dias e horários para enviar quantias através de TED e DOC e realizar pagamentos de contas, o PIX permitirá que elas sejam realizadas a <b>qualquer dia e horário</b>.</string>
+
+    <string name="texto2">É importante dar contexto de como funciona o atual mercado de pagamentos para explicar como o PIX vai funcionar.
+
+<b>Como funciona hoje</b>
+Hoje, existem as seguintes possibilidade para enviar dinheiro para pessoas com contas em outras instituições:
+
+<b>TED (Transferência Eletrônica Disponível):</b> o dinheiro enviado a outra instituição será creditado na conta de destino até as 17 horas daquele mesmo dia; não existe valor mínimo a ser transferido e valores superiores a R$ 5 mil podem ser enviados;
+<b>DOC (Documento de Ordem de Crédito):</b> o dinheiro cai na conta de destino no dia seguinte, mas pode levar mais de um dia útil caso a transferência seja feita apos as 22h; além disso, o valor máximo que pode ser transferido por DOC é de R$ 4.999,99.
+<b>TED e DOC</b> funcionam somente em dias úteis. Transferências feitas em finais de semana ou feriados nacionais, portanto, são completadas somente no dia útil seguinte, podendo levar dias para ser finalizada.</string>
+
+    <string name="texto3">Aqui é o texto tres /n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae quam tincidunt leo blandit volutpat. Maecenas neque sapien, imperdiet ac quam sit amet, vestibulum ornare sapien. Morbi dignissim elementum nulla et iaculis. Sed nec metus a purus euismod porttitor placerat eu neque. Duis libero nisi, sagittis eu iaculis ut, laoreet in lorem. Etiam tincidunt velit sit amet odio euismod, vel vehicula erat fermentum. Duis tellus diam, commodo id suscipit dignissim, tristique rutrum dui. Ut ultricies quam eget porta imperdiet. Integer sit amet orci leo. Nam eu metus vel lectus ultricies feugiat at vel leo.</string>
+
+    <string name="texto4">Aqui é o texto quatro /n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae quam tincidunt leo blandit volutpat. Maecenas neque sapien, imperdiet ac quam sit amet, vestibulum ornare sapien. Morbi dignissim elementum nulla et iaculis. Sed nec metus a purus euismod porttitor placerat eu neque. Duis libero nisi, sagittis eu iaculis ut, laoreet in lorem. Etiam tincidunt velit sit amet odio euismod, vel vehicula erat fermentum. Duis tellus diam, commodo id suscipit dignissim, tristique rutrum dui. Ut ultricies quam eget porta imperdiet. Integer sit amet orci leo. Nam eu metus vel lectus ultricies feugiat at vel leo.</string>
+    <string name="texto5">Aqui é o texto cinco /n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae quam tincidunt leo blandit volutpat. Maecenas neque sapien, imperdiet ac quam sit amet, vestibulum ornare sapien. Morbi dignissim elementum nulla et iaculis. Sed nec metus a purus euismod porttitor placerat eu neque. Duis libero nisi, sagittis eu iaculis ut, laoreet in lorem. Etiam tincidunt velit sit amet odio euismod, vel vehicula erat fermentum. Duis tellus diam, commodo id suscipit dignissim, tristique rutrum dui. Ut ultricies quam eget porta imperdiet. Integer sit amet orci leo. Nam eu metus vel lectus ultricies feugiat at vel leo.</string>
+    <string name="texto6">Aqui é o texto seis /n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae quam tincidunt leo blandit volutpat. Maecenas neque sapien, imperdiet ac quam sit amet, vestibulum ornare sapien. Morbi dignissim elementum nulla et iaculis. Sed nec metus a purus euismod porttitor placerat eu neque. Duis libero nisi, sagittis eu iaculis ut, laoreet in lorem. Etiam tincidunt velit sit amet odio euismod, vel vehicula erat fermentum. Duis tellus diam, commodo id suscipit dignissim, tristique rutrum dui. Ut ultricies quam eget porta imperdiet. Integer sit amet orci leo. Nam eu metus vel lectus ultricies feugiat at vel leo.</string>
+</resources>
